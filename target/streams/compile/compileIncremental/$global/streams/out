@@ -1,0 +1,121 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set(C:\Src\scala\Journey\src\main\scala\monitoring\Supervision.scala, C:\Src\scala\Journey\src\main\scala\persistent\Counter.scala, C:\Src\scala\Journey\src\main\scala\persistent\Persistence.scala, C:\Src\scala\Journey\src\main\scala\router\Worker.scala, C:\Src\scala\Journey\src\main\scala\monitoring\TalkToActor.scala, C:\Src\scala\Journey\src\main\scala\router\App.scala, C:\Src\scala\Journey\src\main\scala\monitoring\Monitoring.scala, C:\Src\scala\Journey\src\main\scala\monitoring\DeathWatch.scala, C:\Src\scala\Journey\src\main\scala\router\Random.scala, C:\Src\scala\Journey\src\main\scala\router\Router.scala, C:\Src\scala\Journey\src\main\scala\router\RoundRobin.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set(C:\Src\scala\Journey\target\scala-2.11\classes\counter\Counter$Zero$.class, C:\Src\scala\Journey\target\scala-2.11\classes\storage\UserStorage$.class, C:\Src\scala\Journey\target\scala-2.11\classes\counter\Counter$Decrement$.class, C:\Src\scala\Journey\target\scala-2.11\classes\storage\UserStorage$Operation.class, C:\Src\scala\Journey\target\scala-2.11\classes\counter\Counter.class, C:\Src\scala\Journey\target\scala-2.11\classes\storage\BecomeHotswap.class, C:\Src\scala\Journey\target\scala-2.11\classes\counter\Counter$$anonfun$receive$1.class, C:\Src\scala\Journey\target\scala-2.11\classes\storage\UserStorage$DBOperation.class, C:\Src\scala\Journey\target\scala-2.11\classes\storage\UserStorage.class, C:\Src\scala\Journey\target\scala-2.11\classes\storage\BecomeHotswap$delayedInit$body.class, C:\Src\scala\Journey\target\scala-2.11\classes\counter\Counter$GetCount$.class, C:\Src\scala\Journey\target\scala-2.11\classes\storage\UserStorage$DBOperation$Create$.class, C:\Src\scala\Journey\target\scala-2.11\classes\storage\UserStorage$Operation$.class, C:\Src\scala\Journey\target\scala-2.11\classes\storage\UserStorage$Connect$.class, C:\Src\scala\Journey\target\scala-2.11\classes\storage\UserStorage$DBOperation$Delete$.class, C:\Src\scala\Journey\target\scala-2.11\classes\storage\UserStorage$DBOperation$Read$.class, C:\Src\scala\Journey\target\scala-2.11\classes\storage\UserStorage$DBOperation$.class, C:\Src\scala\Journey\target\scala-2.11\classes\storage\BecomeHotswap$.class, C:\Src\scala\Journey\target\scala-2.11\classes\storage\UserStorage$$anonfun$connected$1.class, C:\Src\scala\Journey\target\scala-2.11\classes\storage\User.class, C:\Src\scala\Journey\target\scala-2.11\classes\storage\UserStorage$DBOperation$Update$.class, C:\Src\scala\Journey\target\scala-2.11\classes\counter\Counter$.class, C:\Src\scala\Journey\target\scala-2.11\classes\storage\UserStorage$$anonfun$disconnected$1.class, C:\Src\scala\Journey\target\scala-2.11\classes\storage\User$.class, C:\Src\scala\Journey\target\scala-2.11\classes\counter\Counter$Increment$.class, C:\Src\scala\Journey\target\scala-2.11\classes\storage\UserStorage$Disconnect$.class)[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(C:\Src\scala\Journey\src\main\scala\monitoring\Supervision.scala, C:\Src\scala\Journey\src\main\scala\persistent\Counter.scala, C:\Src\scala\Journey\src\main\scala\persistent\Persistence.scala, C:\Src\scala\Journey\src\main\scala\router\Worker.scala, C:\Src\scala\Journey\src\main\scala\monitoring\TalkToActor.scala, C:\Src\scala\Journey\src\main\scala\router\App.scala, C:\Src\scala\Journey\src\main\scala\monitoring\Monitoring.scala, C:\Src\scala\Journey\src\main\scala\monitoring\DeathWatch.scala, C:\Src\scala\Journey\src\main\scala\router\Random.scala, C:\Src\scala\Journey\src\main\scala\router\Router.scala, C:\Src\scala\Journey\src\main\scala\router\RoundRobin.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set(C:\Src\scala\Journey\src\main\scala\counter\Counter.scala, C:\Src\scala\Journey\src\main\scala\storage\DBOperation.scala)[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(C:\Src\scala\Journey\src\main\scala\monitoring\Supervision.scala, C:\Src\scala\Journey\src\main\scala\persistent\Counter.scala, C:\Src\scala\Journey\src\main\scala\storage\DBOperation.scala, C:\Src\scala\Journey\src\main\scala\persistent\Persistence.scala, C:\Src\scala\Journey\src\main\scala\router\Worker.scala, C:\Src\scala\Journey\src\main\scala\monitoring\TalkToActor.scala, C:\Src\scala\Journey\src\main\scala\router\App.scala, C:\Src\scala\Journey\src\main\scala\monitoring\Monitoring.scala, C:\Src\scala\Journey\src\main\scala\monitoring\DeathWatch.scala, C:\Src\scala\Journey\src\main\scala\router\Random.scala, C:\Src\scala\Journey\src\main\scala\router\Router.scala, C:\Src\scala\Journey\src\main\scala\router\RoundRobin.scala, C:\Src\scala\Journey\src\main\scala\counter\Counter.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 19 sources: invalidated sources (13) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 19 Scala sources to C:\Src\scala\Journey\target\scala-2.11\classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.8[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.8[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 992ad5, interfacing (CompilerInterface) with Scala compiler version 2.11.8[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	C:\Program Files (x86)\Java\jdk1.8.0_05\jre\lib\resources.jar;C:\Program Files (x86)\Java\jdk1.8.0_05\jre\lib\rt.jar;C:\Program Files (x86)\Java\jdk1.8.0_05\jre\lib\sunrsasign.jar;C:\Program Files (x86)\Java\jdk1.8.0_05\jre\lib\jsse.jar;C:\Program Files (x86)\Java\jdk1.8.0_05\jre\lib\jce.jar;C:\Program Files (x86)\Java\jdk1.8.0_05\jre\lib\charsets.jar;C:\Program Files (x86)\Java\jdk1.8.0_05\jre\lib\jfr.jar;C:\Program Files (x86)\Java\jdk1.8.0_05\jre\classes;C:\Users\jcohe_000\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	C:\Src\scala\Journey\target\scala-2.11\classes;C:\Users\jcohe_000\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4.0.jar;C:\dev\activator-dist-1.3.6\repository\com.typesafe\config\1.3.0\bundles\config.jar;C:\Users\jcohe_000\.ivy2\cache\com.typesafe.akka\akka-remote_2.11\jars\akka-remote_2.11-2.4.0.jar;C:\Users\jcohe_000\.ivy2\cache\com.typesafe.akka\akka-protobuf_2.11\jars\akka-protobuf_2.11-2.4.0.jar;C:\dev\activator-dist-1.3.6\repository\io.netty\netty\3.10.3.Final\bundles\netty.jar;C:\dev\activator-dist-1.3.6\repository\org.uncommons.maths\uncommons-maths\1.2.2a\jars\uncommons-maths.jar;C:\Users\jcohe_000\.ivy2\cache\com.typesafe.akka\akka-cluster_2.11\jars\akka-cluster_2.11-2.4.0.jar;C:\Users\jcohe_000\.ivy2\cache\com.typesafe.akka\akka-cluster-tools_2.11\jars\akka-cluster-tools_2.11-2.4.0.jar;C:\Users\jcohe_000\.ivy2\cache\com.typesafe.akka\akka-cluster-sharding_2.11\jars\akka-cluster-sharding_2.11-2.4.0.jar;C:\Users\jcohe_000\.ivy2\cache\com.typesafe.akka\akka-persistence_2.11\jars\akka-persistence_2.11-2.4.0.jar;C:\Users\jcohe_000\.ivy2\cache\com.typesafe.akka\akka-contrib_2.11\jars\akka-contrib_2.11-2.4.0.jar;C:\Users\jcohe_000\.ivy2\cache\org.iq80.leveldb\leveldb\jars\leveldb-0.7.jar;C:\Users\jcohe_000\.ivy2\cache\org.iq80.leveldb\leveldb-api\jars\leveldb-api-0.7.jar;C:\Users\jcohe_000\.ivy2\cache\com.google.guava\guava\bundles\guava-16.0.1.jar;C:\Users\jcohe_000\.ivy2\cache\org.fusesource.leveldbjni\leveldbjni-all\bundles\leveldbjni-all-1.8.jar[0m
+[0m[[33mwarn[0m] [0mthere was one deprecation warning; re-run with -deprecation for details[0m
+[0m[[33mwarn[0m] [0mthere was one feature warning; re-run with -feature for details[0m
+[0m[[33mwarn[0m] [0mtwo warnings found[0m
+[0m[[0mdebug[0m] [0mScala compilation took 5.792241628 s[0m
+[0m[[0mdebug[0m] [0mInvalidating C:\Src\scala\Journey\src\main\scala\router\Random.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from C:\Src\scala\Journey\src\main\scala\router\Random.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(C:\Src\scala\Journey\src\main\scala\router\Random.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(C:\Src\scala\Journey\src\main\scala\router\Random.scala)[0m
+[0m[[0mdebug[0m] [0mThe C:\Src\scala\Journey\src\main\scala\router\Random.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	Random, notify, wait, $asInstanceOf, system, equals, asInstanceOf, executionStart, synchronized, $isInstanceOf, routerGroup, main, paths, notifyAll, isInstanceOf, ==, clone, routerPool, toString, args, !=, getClass, ne, eq, delayedInit, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating C:\Src\scala\Journey\src\main\scala\router\RoundRobin.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from C:\Src\scala\Journey\src\main\scala\router\RoundRobin.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(C:\Src\scala\Journey\src\main\scala\router\RoundRobin.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(C:\Src\scala\Journey\src\main\scala\router\RoundRobin.scala)[0m
+[0m[[0mdebug[0m] [0mThe C:\Src\scala\Journey\src\main\scala\router\RoundRobin.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, wait, $asInstanceOf, system, equals, asInstanceOf, executionStart, synchronized, $isInstanceOf, routerGroup, main, RoundRobin, notifyAll, isInstanceOf, ==, clone, routerPool, toString, args, !=, getClass, ne, eq, delayedInit, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating C:\Src\scala\Journey\src\main\scala\router\Worker.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from C:\Src\scala\Journey\src\main\scala\router\Worker.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(C:\Src\scala\Journey\src\main\scala\router\Worker.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(C:\Src\scala\Journey\src\main\scala\router\Worker.scala)[0m
+[0m[[0mdebug[0m] [0mThe C:\Src\scala\Journey\src\main\scala\router\Worker.scala source file has the following implicit definitions changed:[0m
+[0m[[0mdebug[0m] [0m	self, context.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following member ref dependencies of C:\Src\scala\Journey\src\main\scala\router\Worker.scala are invalidated:[0m
+[0m[[0mdebug[0m] [0m	C:\Src\scala\Journey\src\main\scala\router\App.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Src\scala\Journey\src\main\scala\router\Random.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Src\scala\Journey\src\main\scala\router\RoundRobin.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Src\scala\Journey\src\main\scala\router\Router.scala[0m
+[0m[[0mdebug[0m] [0mInvalidating C:\Src\scala\Journey\src\main\scala\persistent\Counter.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from C:\Src\scala\Journey\src\main\scala\persistent\Counter.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(C:\Src\scala\Journey\src\main\scala\persistent\Counter.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(C:\Src\scala\Journey\src\main\scala\persistent\Counter.scala)[0m
+[0m[[0mdebug[0m] [0mThe C:\Src\scala\Journey\src\main\scala\persistent\Counter.scala source file has the following implicit definitions changed:[0m
+[0m[[0mdebug[0m] [0m	self, context.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following member ref dependencies of C:\Src\scala\Journey\src\main\scala\persistent\Counter.scala are invalidated:[0m
+[0m[[0mdebug[0m] [0m	C:\Src\scala\Journey\src\main\scala\persistent\Persistence.scala[0m
+[0m[[0mdebug[0m] [0mInvalidating C:\Src\scala\Journey\src\main\scala\persistent\Persistence.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from C:\Src\scala\Journey\src\main\scala\persistent\Persistence.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(C:\Src\scala\Journey\src\main\scala\persistent\Persistence.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(C:\Src\scala\Journey\src\main\scala\persistent\Persistence.scala)[0m
+[0m[[0mdebug[0m] [0mThe C:\Src\scala\Journey\src\main\scala\persistent\Persistence.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, wait, $asInstanceOf, system, equals, asInstanceOf, executionStart, synchronized, $isInstanceOf, main, notifyAll, isInstanceOf, ==, clone, counter, toString, args, !=, Persistent, getClass, ne, eq, delayedInit, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating C:\Src\scala\Journey\src\main\scala\monitoring\DeathWatch.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from C:\Src\scala\Journey\src\main\scala\monitoring\DeathWatch.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(C:\Src\scala\Journey\src\main\scala\monitoring\DeathWatch.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(C:\Src\scala\Journey\src\main\scala\monitoring\DeathWatch.scala)[0m
+[0m[[0mdebug[0m] [0mThe C:\Src\scala\Journey\src\main\scala\monitoring\DeathWatch.scala source file has the following implicit definitions changed:[0m
+[0m[[0mdebug[0m] [0m	self, context.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating C:\Src\scala\Journey\src\main\scala\monitoring\Supervision.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from C:\Src\scala\Journey\src\main\scala\monitoring\Supervision.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(C:\Src\scala\Journey\src\main\scala\monitoring\Supervision.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(C:\Src\scala\Journey\src\main\scala\monitoring\Supervision.scala)[0m
+[0m[[0mdebug[0m] [0mThe C:\Src\scala\Journey\src\main\scala\monitoring\Supervision.scala source file has the following implicit definitions changed:[0m
+[0m[[0mdebug[0m] [0m	self, context.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating C:\Src\scala\Journey\src\main\scala\router\App.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from C:\Src\scala\Journey\src\main\scala\router\App.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(C:\Src\scala\Journey\src\main\scala\router\App.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(C:\Src\scala\Journey\src\main\scala\router\App.scala)[0m
+[0m[[0mdebug[0m] [0mThe C:\Src\scala\Journey\src\main\scala\router\App.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, wait, $asInstanceOf, system, equals, asInstanceOf, executionStart, workers, synchronized, $isInstanceOf, routerGroup, main, notifyAll, isInstanceOf, ==, clone, RouterApp, toString, args, !=, getClass, ne, router, eq, delayedInit, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating C:\Src\scala\Journey\src\main\scala\monitoring\Monitoring.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from C:\Src\scala\Journey\src\main\scala\monitoring\Monitoring.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(C:\Src\scala\Journey\src\main\scala\monitoring\Monitoring.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(C:\Src\scala\Journey\src\main\scala\monitoring\Monitoring.scala)[0m
+[0m[[0mdebug[0m] [0mThe C:\Src\scala\Journey\src\main\scala\monitoring\Monitoring.scala source file has the following implicit definitions changed:[0m
+[0m[[0mdebug[0m] [0m	self, context.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating C:\Src\scala\Journey\src\main\scala\monitoring\TalkToActor.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from C:\Src\scala\Journey\src\main\scala\monitoring\TalkToActor.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(C:\Src\scala\Journey\src\main\scala\monitoring\TalkToActor.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(C:\Src\scala\Journey\src\main\scala\monitoring\TalkToActor.scala)[0m
+[0m[[0mdebug[0m] [0mThe C:\Src\scala\Journey\src\main\scala\monitoring\TalkToActor.scala source file has the following implicit definitions changed:[0m
+[0m[[0mdebug[0m] [0m	self, timeout, context.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating C:\Src\scala\Journey\src\main\scala\router\Router.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from C:\Src\scala\Journey\src\main\scala\router\Router.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(C:\Src\scala\Journey\src\main\scala\router\Router.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(C:\Src\scala\Journey\src\main\scala\router\Router.scala)[0m
+[0m[[0mdebug[0m] [0mThe C:\Src\scala\Journey\src\main\scala\router\Router.scala source file has the following implicit definitions changed:[0m
+[0m[[0mdebug[0m] [0m	self, context.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following member ref dependencies of C:\Src\scala\Journey\src\main\scala\router\Router.scala are invalidated:[0m
+[0m[[0mdebug[0m] [0m	C:\Src\scala\Journey\src\main\scala\router\App.scala[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m

@@ -1,0 +1,8 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(C:\Src\scala\Journey\src\main\resources\application.conf,C:\Src\scala\Journey\target\scala-2.11\classes\application.conf)[0m
+[0m[[0mdebug[0m] [0m	(C:\Src\scala\Journey\src\main\resources\loadbalancer.conf,C:\Src\scala\Journey\target\scala-2.11\classes\loadbalancer.conf)[0m
+[0m[[0mdebug[0m] [0m	(C:\Src\scala\Journey\src\main\resources\native,C:\Src\scala\Journey\target\scala-2.11\classes\native)[0m
+[0m[[0mdebug[0m] [0m	(C:\Src\scala\Journey\src\main\resources\sharding.conf,C:\Src\scala\Journey\target\scala-2.11\classes\sharding.conf)[0m
+[0m[[0mdebug[0m] [0m	(C:\Src\scala\Journey\src\main\resources\singleton.conf,C:\Src\scala\Journey\target\scala-2.11\classes\singleton.conf)[0m
+[0m[[0mdebug[0m] [0m	(C:\Src\scala\Journey\src\main\resources\native\libsigar-amd64-linux.so,C:\Src\scala\Journey\target\scala-2.11\classes\native\libsigar-amd64-linux.so)[0m
+[0m[[0mdebug[0m] [0m	(C:\Src\scala\Journey\src\main\resources\native\libsigar-universal64-macosx.dylib,C:\Src\scala\Journey\target\scala-2.11\classes\native\libsigar-universal64-macosx.dylib)[0m
