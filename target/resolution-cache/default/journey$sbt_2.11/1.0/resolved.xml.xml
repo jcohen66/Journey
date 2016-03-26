@@ -4,7 +4,7 @@
 		module="journey$sbt_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20160321174324"
+		publication="20160324134557"
 	/>
 	<configurations>
 		<conf name="default" visibility="public"/>

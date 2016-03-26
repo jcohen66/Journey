@@ -4,7 +4,7 @@
 		module="journey_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20160321174321"
+		publication="20160324132643"
 	>
 		<description>
 		Journey
@@ -46,5 +46,6 @@
 		<dependency org="com.github.dnvriend" name="akka-persistence-inmemory_2.11" rev="1.2.11" conf="compile->default(compile)"/>
 		<dependency org="com.typesafe.akka" name="akka-testkit_2.11" rev="2.4.0" conf="test->default(compile)"/>
 		<dependency org="org.fusesource.leveldbjni" name="leveldbjni-all" rev="1.8" conf="compile->default(compile)"/>
+		<dependency org="org.specs2" name="specs2_2.9.1" rev="1.8" conf="compile->default(compile)"/>
 	</dependencies>
 </ivy-module>

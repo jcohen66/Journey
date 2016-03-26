@@ -22,3 +22,5 @@ libraryDependencies ++= Seq(
   "com.github.dnvriend" %% "akka-persistence-inmemory" % "1.2.11",
   "com.typesafe.akka" %% "akka-testkit" % "2.4.0" % "test",
   "org.fusesource.leveldbjni" % "leveldbjni-all" % "1.8")
+
+libraryDependencies += "org.specs2" % "specs2_2.9.1" % "1.8"
