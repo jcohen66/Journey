@@ -4,7 +4,7 @@
 		module="journey_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20160326165213"
+		publication="20160327133500"
 	>
 		<description>
 		Journey
@@ -47,5 +47,6 @@
 		<dependency org="com.typesafe.akka" name="akka-testkit_2.11" rev="2.4.0" conf="test->default(compile)"/>
 		<dependency org="org.fusesource.leveldbjni" name="leveldbjni-all" rev="1.8" conf="compile->default(compile)"/>
 		<dependency org="org.specs2" name="specs2_2.9.1" rev="1.8" conf="compile->default(compile)"/>
+		<dependency org="org.scalafx" name="scalafx_2.11" rev="8.0.60-R9" conf="compile->default(compile)"/>
 	</dependencies>
 </ivy-module>

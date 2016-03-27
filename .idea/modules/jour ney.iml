@@ -23,7 +23,7 @@
       <excludeFolder url="file://$MODULE_DIR$/../../target/streams" />
       <excludeFolder url="file://$MODULE_DIR$/../../target/test-reports" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="SBT: org.scala-lang:scala-library:2.11.8:jar" level="project" />
     <orderEntry type="library" name="SBT: com.google.guava:guava:16.0.1:jar" level="project" />
@@ -38,7 +38,6 @@
     <orderEntry type="library" name="SBT: org.iq80.leveldb:leveldb:0.7:jar" level="project" />
     <orderEntry type="library" name="SBT: org.iq80.leveldb:leveldb-api:0.7:jar" level="project" />
     <orderEntry type="library" name="SBT: org.uncommons.maths:uncommons-maths:1.2.2a:jar" level="project" />
-    <orderEntry type="library" scope="TEST" name="SBT: org.scala-lang:scala-reflect:2.11.2:jar" level="project" />
     <orderEntry type="library" scope="TEST" name="SBT: org.scala-lang.modules:scala-xml_2.11:1.0.2:jar" level="project" />
     <orderEntry type="library" scope="TEST" name="SBT: org.scalatest:scalatest_2.11:2.2.1:jar" level="project" />
     <orderEntry type="library" name="SBT: com.github.dnvriend:akka-persistence-inmemory_2.11:1.2.11:jar" level="project" />
@@ -57,5 +56,7 @@
     <orderEntry type="library" name="SBT: org.scala-lang.modules:scala-parser-combinators_2.11:1.0.4:jar" level="project" />
     <orderEntry type="library" name="SBT: org.specs2:specs2-scalaz-core_2.9.1:6.0.1:jar" level="project" />
     <orderEntry type="library" name="SBT: org.specs2:specs2_2.9.1:1.8:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.scala-lang:scala-reflect:2.11.7:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.scalafx:scalafx_2.11:8.0.60-R9:jar" level="project" />
   </component>
 </module>

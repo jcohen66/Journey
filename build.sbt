@@ -23,4 +23,6 @@ libraryDependencies ++= Seq(
   "com.typesafe.akka" %% "akka-testkit" % "2.4.0" % "test",
   "org.fusesource.leveldbjni" % "leveldbjni-all" % "1.8")
 
+
 libraryDependencies += "org.specs2" % "specs2_2.9.1" % "1.8"
+libraryDependencies += "org.scalafx" % "scalafx_2.11" % "8.0.60-R9"
