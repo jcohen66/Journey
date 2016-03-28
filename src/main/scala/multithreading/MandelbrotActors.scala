@@ -1,13 +1,11 @@
 package multithreading
 
-import akka.actor.{Props, ActorSystem, Actor}
+import akka.actor._
 import akka.routing.BalancingPool
+import deathwatch.Reaper.WatchMe
 
+import scalafx.application.{JFXApp, Platform}
 import scalafx.scene.Scene
-
-import scalafx.application.JFXApp
-import scalafx.application.Platform
-import scalafx.application.JFXApp.PrimaryStage
 import scalafx.scene.image._
 import scalafx.scene.paint.Color
 
@@ -31,7 +29,10 @@ object MandelbrotActors extends JFXApp {
 
   case class Line(row: Int, y: Double)
 
-  class LineActor(pw: PixelWriter) extends Actor {
+  class LineActor(pw: PixelWriter, r: ActorRef) extends Actor {
+
+    r ! WatchMe(self)
+
     def receive = {
       case Line(row, y) =>
         for(j <- 0 until ImageSize) {
@@ -47,6 +48,7 @@ object MandelbrotActors extends JFXApp {
               val scale = 10 * math.sqrt(cnt.toDouble / MaxCount) min 1.0
               Color(scale, 0, 0, 1)
             })
+            self ! PoisonPill
           }
         }
     }
@@ -65,7 +67,9 @@ object MandelbrotActors extends JFXApp {
 
   val system = ActorSystem("mandel-system")
 
-  val cores = 8;
+  val reaper = system.actorOf(Props[ProductionReaper], "deathwatch")
+
+  val cores = 4;
 
 
   stage = new JFXApp.PrimaryStage {
@@ -74,7 +78,8 @@ object MandelbrotActors extends JFXApp {
       val image = new WritableImage(ImageSize, ImageSize)
       content = new ImageView(image)
 
-      val router = system.actorOf(BalancingPool(cores).props(Props(new LineActor(image.pixelWrit))), "pool")
+      val router = system.actorOf(BalancingPool(cores).props(Props(new LineActor(image.pixelWrit, reaper))), "pool")
+
       for(i <- 0 until ImageSize) {
         val y = YMin + i*(YMax-YMin)/ImageSize
         router ! Line(i, y)
@@ -83,5 +88,4 @@ object MandelbrotActors extends JFXApp {
     }
   }
 
-  // system.terminate()
 }

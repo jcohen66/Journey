@@ -9,7 +9,7 @@
 [debug] == resolving dependencies for default#journey$sources_2.11;1.0 [compile]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-library;2.11.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7a3e1b3b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4b724a0
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.11.8
 [debug] 	found org.scala-lang#scala-library;2.11.8 in sbt-chain
 [debug] 	[2.11.8] org.scala-lang#scala-library;2.11.8
@@ -18,7 +18,7 @@
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [compile->master]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.typesafe#config;1.3.0 [compile->default(compile)]
 [info] Resolving com.typesafe#config;1.3.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@75dd2e0d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@52323120
 [debug] sbt-chain: module revision found in cache: com.typesafe#config;1.3.0
 [debug] 	found com.typesafe#config;1.3.0 in sbt-chain
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.typesafe#config;1.3.0 [compile->runtime]
@@ -26,7 +26,7 @@
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.typesafe#config;1.3.0 [compile->master]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.4.0 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-remote_2.11;2.4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1cb2abc5
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@58473c2c
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-remote_2.11;2.4.0
 [debug] 	found com.typesafe.akka#akka-remote_2.11;2.4.0 in sbt-chain
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.4.0 [compile->runtime]
@@ -34,7 +34,7 @@
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.4.0 [compile->master]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->io.netty#netty;3.10.3.Final [compile->default(compile)]
 [info] Resolving io.netty#netty;3.10.3.Final ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@24e2ca46
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@25b968c3
 [debug] sbt-chain: module revision found in cache: io.netty#netty;3.10.3.Final
 [debug] 	found io.netty#netty;3.10.3.Final in sbt-chain
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->io.netty#netty;3.10.3.Final [compile->runtime]
@@ -42,7 +42,7 @@
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->io.netty#netty;3.10.3.Final [compile->master]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->default(compile)]
 [info] Resolving org.uncommons.maths#uncommons-maths;1.2.2a ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@475db590
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6507e0a7
 [debug] sbt-chain: module revision found in cache: org.uncommons.maths#uncommons-maths;1.2.2a
 [debug] 	found org.uncommons.maths#uncommons-maths;1.2.2a in sbt-chain
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->runtime]
@@ -50,7 +50,7 @@
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->master]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.0 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-cluster_2.11;2.4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@541d968d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@624e6d9b
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-cluster_2.11;2.4.0
 [debug] 	found com.typesafe.akka#akka-cluster_2.11;2.4.0 in sbt-chain
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.0 [compile->runtime]
@@ -58,7 +58,7 @@
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.0 [compile->master]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.0 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-cluster-tools_2.11;2.4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@76eeb867
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3c00c7cb
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-cluster-tools_2.11;2.4.0
 [debug] 	found com.typesafe.akka#akka-cluster-tools_2.11;2.4.0 in sbt-chain
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.0 [compile->runtime]
@@ -66,7 +66,7 @@
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.0 [compile->master]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.typesafe.akka#akka-cluster-sharding_2.11;2.4.0 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-cluster-sharding_2.11;2.4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@567f24a6
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5e82775b
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-cluster-sharding_2.11;2.4.0
 [debug] 	found com.typesafe.akka#akka-cluster-sharding_2.11;2.4.0 in sbt-chain
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.typesafe.akka#akka-cluster-sharding_2.11;2.4.0 [compile->runtime]
@@ -74,7 +74,7 @@
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.typesafe.akka#akka-cluster-sharding_2.11;2.4.0 [compile->master]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.typesafe.akka#akka-contrib_2.11;2.4.0 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-contrib_2.11;2.4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@22294fbd
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@427378c7
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-contrib_2.11;2.4.0
 [debug] 	found com.typesafe.akka#akka-contrib_2.11;2.4.0 in sbt-chain
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.typesafe.akka#akka-contrib_2.11;2.4.0 [compile->runtime]
@@ -82,7 +82,7 @@
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.typesafe.akka#akka-contrib_2.11;2.4.0 [compile->master]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.iq80.leveldb#leveldb;0.7 [compile->default(compile)]
 [info] Resolving org.iq80.leveldb#leveldb;0.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@105fa289
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4f3bfbc6
 [debug] sbt-chain: module revision found in cache: org.iq80.leveldb#leveldb;0.7
 [debug] 	found org.iq80.leveldb#leveldb;0.7 in sbt-chain
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.iq80.leveldb#leveldb;0.7 [compile->runtime]
@@ -90,7 +90,7 @@
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.iq80.leveldb#leveldb;0.7 [compile->master]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.iq80.leveldb#leveldb-api;0.7 [compile->default(compile)]
 [info] Resolving org.iq80.leveldb#leveldb-api;0.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6649501a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@50d26b32
 [debug] sbt-chain: module revision found in cache: org.iq80.leveldb#leveldb-api;0.7
 [debug] 	found org.iq80.leveldb#leveldb-api;0.7 in sbt-chain
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.iq80.leveldb#leveldb-api;0.7 [compile->runtime]
@@ -98,7 +98,7 @@
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.iq80.leveldb#leveldb-api;0.7 [compile->master]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.google.guava#guava;16.0.1 [compile->default(compile)]
 [info] Resolving com.google.guava#guava;16.0.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@637313af
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@31fbd25b
 [debug] sbt-chain: module revision found in cache: com.google.guava#guava;16.0.1
 [debug] 	found com.google.guava#guava;16.0.1 in sbt-chain
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.google.guava#guava;16.0.1 [compile->runtime]
@@ -106,7 +106,7 @@
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.google.guava#guava;16.0.1 [compile->master]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.github.dnvriend#akka-persistence-inmemory_2.11;1.2.11 [compile->default(compile)]
 [info] Resolving com.github.dnvriend#akka-persistence-inmemory_2.11;1.2.11 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6cd67f41
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@f0cf0b8
 [debug] sbt-chain: module revision found in cache: com.github.dnvriend#akka-persistence-inmemory_2.11;1.2.11
 [debug] 	found com.github.dnvriend#akka-persistence-inmemory_2.11;1.2.11 in sbt-chain
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.github.dnvriend#akka-persistence-inmemory_2.11;1.2.11 [compile->runtime]
@@ -114,7 +114,7 @@
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.github.dnvriend#akka-persistence-inmemory_2.11;1.2.11 [compile->master]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.4.2 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-actor_2.11;2.4.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@34ada06d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3691941d
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-actor_2.11;2.4.2
 [debug] 	found com.typesafe.akka#akka-actor_2.11;2.4.2 in sbt-chain
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.4.2 [compile->runtime]
@@ -122,7 +122,7 @@
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.4.2 [compile->master]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-java8-compat_2.11;0.7.0 [compile->default(compile)]
 [info] Resolving org.scala-lang.modules#scala-java8-compat_2.11;0.7.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3242f3f3
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3613eab1
 [debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-java8-compat_2.11;0.7.0
 [debug] 	found org.scala-lang.modules#scala-java8-compat_2.11;0.7.0 in sbt-chain
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-java8-compat_2.11;0.7.0 [compile->runtime]
@@ -130,7 +130,7 @@
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-java8-compat_2.11;0.7.0 [compile->master]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.typesafe.akka#akka-persistence_2.11;2.4.2 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-persistence_2.11;2.4.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6561821e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6a0ac370
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-persistence_2.11;2.4.2
 [debug] 	found com.typesafe.akka#akka-persistence_2.11;2.4.2 in sbt-chain
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.typesafe.akka#akka-persistence_2.11;2.4.2 [compile->runtime]
@@ -138,7 +138,7 @@
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.typesafe.akka#akka-persistence_2.11;2.4.2 [compile->master]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.typesafe.akka#akka-protobuf_2.11;2.4.2 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-protobuf_2.11;2.4.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@20638f47
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@f9c2b2b
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-protobuf_2.11;2.4.2
 [debug] 	found com.typesafe.akka#akka-protobuf_2.11;2.4.2 in sbt-chain
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.typesafe.akka#akka-protobuf_2.11;2.4.2 [compile->runtime]
@@ -146,7 +146,7 @@
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.typesafe.akka#akka-protobuf_2.11;2.4.2 [compile->master]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.typesafe.akka#akka-persistence-query-experimental_2.11;2.4.2 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-persistence-query-experimental_2.11;2.4.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@42ff3959
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6f4cdf1a
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-persistence-query-experimental_2.11;2.4.2
 [debug] 	found com.typesafe.akka#akka-persistence-query-experimental_2.11;2.4.2 in sbt-chain
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.typesafe.akka#akka-persistence-query-experimental_2.11;2.4.2 [compile->runtime]
@@ -154,7 +154,7 @@
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.typesafe.akka#akka-persistence-query-experimental_2.11;2.4.2 [compile->master]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.typesafe.akka#akka-stream_2.11;2.4.2 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-stream_2.11;2.4.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@22d6051d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3f73ef1d
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-stream_2.11;2.4.2
 [debug] 	found com.typesafe.akka#akka-stream_2.11;2.4.2 in sbt-chain
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.typesafe.akka#akka-stream_2.11;2.4.2 [compile->runtime]
@@ -162,7 +162,7 @@
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.typesafe.akka#akka-stream_2.11;2.4.2 [compile->master]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.typesafe#ssl-config-akka_2.11;0.1.3 [compile->default(compile)]
 [info] Resolving com.typesafe#ssl-config-akka_2.11;0.1.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@bd729da
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@69caab02
 [debug] sbt-chain: module revision found in cache: com.typesafe#ssl-config-akka_2.11;0.1.3
 [debug] 	found com.typesafe#ssl-config-akka_2.11;0.1.3 in sbt-chain
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.typesafe#ssl-config-akka_2.11;0.1.3 [compile->runtime]
@@ -170,7 +170,7 @@
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.typesafe#ssl-config-akka_2.11;0.1.3 [compile->master]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.typesafe#ssl-config-core_2.11;0.1.3 [compile->default(compile)]
 [info] Resolving com.typesafe#ssl-config-core_2.11;0.1.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1a0a28df
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5a31d5af
 [debug] sbt-chain: module revision found in cache: com.typesafe#ssl-config-core_2.11;0.1.3
 [debug] 	found com.typesafe#ssl-config-core_2.11;0.1.3 in sbt-chain
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.typesafe#ssl-config-core_2.11;0.1.3 [compile->runtime]
@@ -178,7 +178,7 @@
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.typesafe#ssl-config-core_2.11;0.1.3 [compile->master]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 [compile->default(compile)]
 [info] Resolving org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@57dcf6c9
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3e5024c2
 [debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4
 [debug] 	found org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 in sbt-chain
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 [compile->runtime]
@@ -186,7 +186,7 @@
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 [compile->master]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.reactivestreams#reactive-streams;1.0.0 [compile->default(compile)]
 [info] Resolving org.reactivestreams#reactive-streams;1.0.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@255578e6
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@46994bc0
 [debug] sbt-chain: module revision found in cache: org.reactivestreams#reactive-streams;1.0.0
 [debug] 	found org.reactivestreams#reactive-streams;1.0.0 in sbt-chain
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.reactivestreams#reactive-streams;1.0.0 [compile->runtime]
@@ -194,7 +194,7 @@
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.reactivestreams#reactive-streams;1.0.0 [compile->master]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.typesafe.akka#akka-testkit_2.11;2.4.2 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-testkit_2.11;2.4.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4cf3a840
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@bb52de3
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-testkit_2.11;2.4.2
 [debug] 	found com.typesafe.akka#akka-testkit_2.11;2.4.2 in sbt-chain
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.typesafe.akka#akka-testkit_2.11;2.4.2 [compile->runtime]
@@ -202,7 +202,7 @@
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.typesafe.akka#akka-testkit_2.11;2.4.2 [compile->master]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.typesafe.akka#akka-stream-testkit_2.11;2.4.2 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-stream-testkit_2.11;2.4.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3b8d0710
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1ef21ff9
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-stream-testkit_2.11;2.4.2
 [debug] 	found com.typesafe.akka#akka-stream-testkit_2.11;2.4.2 in sbt-chain
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.typesafe.akka#akka-stream-testkit_2.11;2.4.2 [compile->runtime]
@@ -210,15 +210,31 @@
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.typesafe.akka#akka-stream-testkit_2.11;2.4.2 [compile->master]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.lihaoyi#sourcecode_2.11;0.1.0 [compile->default(compile)]
 [info] Resolving com.lihaoyi#sourcecode_2.11;0.1.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5dee4f59
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6bed63f0
 [debug] sbt-chain: module revision found in cache: com.lihaoyi#sourcecode_2.11;0.1.0
 [debug] 	found com.lihaoyi#sourcecode_2.11;0.1.0 in sbt-chain
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.lihaoyi#sourcecode_2.11;0.1.0 [compile->runtime]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.lihaoyi#sourcecode_2.11;0.1.0 [compile->compile]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.lihaoyi#sourcecode_2.11;0.1.0 [compile->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [compile->default(compile)]
+[info] Resolving net.sf.ehcache#ehcache;2.7.4 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3b002b9f
+[debug] sbt-chain: module revision found in cache: net.sf.ehcache#ehcache;2.7.4
+[debug] 	found net.sf.ehcache#ehcache;2.7.4 in sbt-chain
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [compile->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [compile->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [compile->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [compile->default(compile)]
+[info] Resolving javax.transaction#jta;1.1 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5e2abe96
+[debug] sbt-chain: module revision found in cache: javax.transaction#jta;1.1
+[debug] 	found javax.transaction#jta;1.1 in sbt-chain
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [compile->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [compile->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [compile->master]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.8 [compile->default(compile)]
 [info] Resolving org.fusesource.leveldbjni#leveldbjni-all;1.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@35fa1897
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4e5d70f6
 [debug] sbt-chain: module revision found in cache: org.fusesource.leveldbjni#leveldbjni-all;1.8
 [debug] 	found org.fusesource.leveldbjni#leveldbjni-all;1.8 in sbt-chain
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.8 [compile->runtime]
@@ -226,7 +242,7 @@
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.8 [compile->master]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.specs2#specs2_2.9.1;1.8 [compile->default(compile)]
 [info] Resolving org.specs2#specs2_2.9.1;1.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6408e467
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5ee91d08
 [debug] sbt-chain: module revision found in cache: org.specs2#specs2_2.9.1;1.8
 [debug] 	found org.specs2#specs2_2.9.1;1.8 in sbt-chain
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.specs2#specs2_2.9.1;1.8 [compile->runtime]
@@ -234,7 +250,7 @@
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.specs2#specs2_2.9.1;1.8 [compile->master]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.specs2#specs2-scalaz-core_2.9.1;6.0.1 [compile->default(compile)]
 [info] Resolving org.specs2#specs2-scalaz-core_2.9.1;6.0.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6fefec8
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@500f39e9
 [debug] sbt-chain: module revision found in cache: org.specs2#specs2-scalaz-core_2.9.1;6.0.1
 [debug] 	found org.specs2#specs2-scalaz-core_2.9.1;6.0.1 in sbt-chain
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.specs2#specs2-scalaz-core_2.9.1;6.0.1 [compile->runtime]
@@ -242,7 +258,7 @@
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.specs2#specs2-scalaz-core_2.9.1;6.0.1 [compile->master]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalafx#scalafx_2.11;8.0.60-R9 [compile->default(compile)]
 [info] Resolving org.scalafx#scalafx_2.11;8.0.60-R9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@71e75038
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@752e8992
 [debug] sbt-chain: module revision found in cache: org.scalafx#scalafx_2.11;8.0.60-R9
 [debug] 	found org.scalafx#scalafx_2.11;8.0.60-R9 in sbt-chain
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalafx#scalafx_2.11;8.0.60-R9 [compile->runtime]
@@ -250,13 +266,69 @@
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalafx#scalafx_2.11;8.0.60-R9 [compile->master]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-reflect;2.11.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@48971a60
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@28281853
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-reflect;2.11.7
 [debug] 	found org.scala-lang#scala-reflect;2.11.7 in sbt-chain
 [debug] 	[2.11.7] org.scala-lang#scala-reflect;2.11.7
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [compile->runtime]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [compile->compile]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [compile->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [compile->default(compile)]
+[info] Resolving org.scalamock#scalamock-scalatest-support_2.11;3.2.2 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4125b8a
+[debug] sbt-chain: module revision found in cache: org.scalamock#scalamock-scalatest-support_2.11;3.2.2
+[debug] 	found org.scalamock#scalamock-scalatest-support_2.11;3.2.2 in sbt-chain
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [compile->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [compile->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [compile->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [compile->default(compile)]
+[info] Resolving org.scalamock#scalamock-core_2.11;3.2.2 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@60920f1b
+[debug] sbt-chain: module revision found in cache: org.scalamock#scalamock-core_2.11;3.2.2
+[debug] 	found org.scalamock#scalamock-core_2.11;3.2.2 in sbt-chain
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [compile->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [compile->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [compile->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->default(compile)]
+[info] Resolving org.scalatest#scalatest_2.11;2.2.4 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7a32f772
+[debug] sbt-chain: module revision found in cache: org.scalatest#scalatest_2.11;2.2.4
+[debug] 	found org.scalatest#scalatest_2.11;2.2.4 in sbt-chain
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [compile->default(compile)]
+[info] Resolving org.scala-lang.modules#scala-xml_2.11;1.0.2 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@195d9b7
+[debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-xml_2.11;1.0.2
+[debug] 	found org.scala-lang.modules#scala-xml_2.11;1.0.2 in sbt-chain
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [compile->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [compile->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [compile->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [compile->default(compile)]
+[info] Resolving org.slf4j#slf4j-log4j12;1.7.19 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@51dd6e26
+[debug] sbt-chain: module revision found in cache: org.slf4j#slf4j-log4j12;1.7.19
+[debug] 	found org.slf4j#slf4j-log4j12;1.7.19 in sbt-chain
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [compile->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [compile->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [compile->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [compile->default(compile)]
+[info] Resolving org.slf4j#slf4j-api;1.7.19 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@70f9b14a
+[debug] sbt-chain: module revision found in cache: org.slf4j#slf4j-api;1.7.19
+[debug] 	found org.slf4j#slf4j-api;1.7.19 in sbt-chain
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [compile->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [compile->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [compile->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [compile->default(compile)]
+[info] Resolving log4j#log4j;1.2.17 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3a9bfe2f
+[debug] sbt-chain: module revision found in cache: log4j#log4j;1.2.17
+[debug] 	found log4j#log4j;1.2.17 in sbt-chain
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [compile->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [compile->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [compile->master]
 [debug] resolving dependencies for configuration 'runtime'
 [debug] == resolving dependencies for default#journey$sources_2.11;1.0 [runtime]
 [debug] == resolving dependencies for default#journey$sources_2.11;1.0 [compile]
@@ -364,6 +436,14 @@
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.lihaoyi#sourcecode_2.11;0.1.0 [compile->runtime]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.lihaoyi#sourcecode_2.11;0.1.0 [compile->compile]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.lihaoyi#sourcecode_2.11;0.1.0 [compile->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [compile->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [compile->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [compile->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [compile->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [compile->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [compile->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [compile->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [compile->master]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.8 [compile->default(compile)]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.8 [compile->runtime]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.8 [compile->compile]
@@ -384,6 +464,34 @@
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [compile->runtime]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [compile->compile]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [compile->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [compile->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [compile->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [compile->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [compile->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [compile->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [compile->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [compile->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [compile->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [compile->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [compile->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [compile->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [compile->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [compile->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [compile->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [compile->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [compile->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [compile->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [compile->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [compile->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [compile->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [compile->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [compile->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [compile->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [compile->master]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [runtime->default(compile)]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [runtime->runtime]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [runtime->compile]
@@ -488,6 +596,14 @@
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.lihaoyi#sourcecode_2.11;0.1.0 [runtime->runtime]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.lihaoyi#sourcecode_2.11;0.1.0 [runtime->compile]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.lihaoyi#sourcecode_2.11;0.1.0 [runtime->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [runtime->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [runtime->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [runtime->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [runtime->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [runtime->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [runtime->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [runtime->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [runtime->master]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.8 [runtime->default(compile)]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.8 [runtime->runtime]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.8 [runtime->compile]
@@ -508,6 +624,34 @@
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [runtime->runtime]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [runtime->compile]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [runtime->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [runtime->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [runtime->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [runtime->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [runtime->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [runtime->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [runtime->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [runtime->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [runtime->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [runtime->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [runtime->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [runtime->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [runtime->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [runtime->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [runtime->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [runtime->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [runtime->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [runtime->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [runtime->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [runtime->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [runtime->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [runtime->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [runtime->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [runtime->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [runtime->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [runtime->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [runtime->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [runtime->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [runtime->master]
 [debug] resolving dependencies for configuration 'test'
 [debug] == resolving dependencies for default#journey$sources_2.11;1.0 [test]
 [debug] == resolving dependencies for default#journey$sources_2.11;1.0 [runtime]
@@ -616,6 +760,14 @@
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.lihaoyi#sourcecode_2.11;0.1.0 [compile->runtime]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.lihaoyi#sourcecode_2.11;0.1.0 [compile->compile]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.lihaoyi#sourcecode_2.11;0.1.0 [compile->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [compile->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [compile->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [compile->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [compile->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [compile->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [compile->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [compile->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [compile->master]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.8 [compile->default(compile)]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.8 [compile->runtime]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.8 [compile->compile]
@@ -636,6 +788,34 @@
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [compile->runtime]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [compile->compile]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [compile->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [compile->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [compile->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [compile->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [compile->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [compile->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [compile->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [compile->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [compile->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [compile->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [compile->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [compile->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [compile->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [compile->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [compile->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [compile->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [compile->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [compile->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [compile->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [compile->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [compile->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [compile->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [compile->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [compile->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [compile->master]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [runtime->default(compile)]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [runtime->runtime]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [runtime->compile]
@@ -740,6 +920,14 @@
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.lihaoyi#sourcecode_2.11;0.1.0 [runtime->runtime]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.lihaoyi#sourcecode_2.11;0.1.0 [runtime->compile]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.lihaoyi#sourcecode_2.11;0.1.0 [runtime->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [runtime->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [runtime->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [runtime->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [runtime->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [runtime->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [runtime->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [runtime->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [runtime->master]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.8 [runtime->default(compile)]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.8 [runtime->runtime]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.8 [runtime->compile]
@@ -760,6 +948,34 @@
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [runtime->runtime]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [runtime->compile]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [runtime->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [runtime->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [runtime->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [runtime->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [runtime->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [runtime->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [runtime->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [runtime->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [runtime->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [runtime->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [runtime->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [runtime->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [runtime->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [runtime->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [runtime->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [runtime->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [runtime->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [runtime->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [runtime->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [runtime->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [runtime->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [runtime->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [runtime->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [runtime->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [runtime->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [runtime->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [runtime->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [runtime->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [runtime->master]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [test->default(compile)]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [test->runtime]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [test->compile]
@@ -864,6 +1080,14 @@
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.lihaoyi#sourcecode_2.11;0.1.0 [test->runtime]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.lihaoyi#sourcecode_2.11;0.1.0 [test->compile]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.lihaoyi#sourcecode_2.11;0.1.0 [test->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [test->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [test->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [test->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [test->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [test->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [test->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [test->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [test->master]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.8 [test->default(compile)]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.8 [test->runtime]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.8 [test->compile]
@@ -884,22 +1108,34 @@
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [test->runtime]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [test->compile]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [test->master]
-[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.1 [test->default(compile)]
-[info] Resolving org.scalatest#scalatest_2.11;2.2.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@20c40acd
-[debug] sbt-chain: module revision found in cache: org.scalatest#scalatest_2.11;2.2.1
-[debug] 	found org.scalatest#scalatest_2.11;2.2.1 in sbt-chain
-[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.1 [test->runtime]
-[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.1 [test->compile]
-[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.1 [test->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [test->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [test->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [test->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [test->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [test->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [test->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [test->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [test->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [test->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [test->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [test->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [test->master]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [test->default(compile)]
-[info] Resolving org.scala-lang.modules#scala-xml_2.11;1.0.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@64585981
-[debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-xml_2.11;1.0.2
-[debug] 	found org.scala-lang.modules#scala-xml_2.11;1.0.2 in sbt-chain
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [test->runtime]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [test->compile]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [test->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [test->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [test->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [test->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [test->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [test->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [test->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [test->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [test->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [test->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [test->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [test->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [test->master]
 [debug] resolving dependencies for configuration 'provided'
 [debug] == resolving dependencies for default#journey$sources_2.11;1.0 [provided]
 [debug] resolving dependencies for configuration 'optional'
@@ -1011,6 +1247,14 @@
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.lihaoyi#sourcecode_2.11;0.1.0 [compile->runtime]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.lihaoyi#sourcecode_2.11;0.1.0 [compile->compile]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.lihaoyi#sourcecode_2.11;0.1.0 [compile->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [compile->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [compile->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [compile->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [compile->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [compile->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [compile->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [compile->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [compile->master]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.8 [compile->default(compile)]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.8 [compile->runtime]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.8 [compile->compile]
@@ -1031,6 +1275,34 @@
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [compile->runtime]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [compile->compile]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [compile->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [compile->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [compile->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [compile->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [compile->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [compile->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [compile->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [compile->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [compile->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [compile->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [compile->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [compile->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [compile->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [compile->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [compile->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [compile->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [compile->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [compile->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [compile->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [compile->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [compile->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [compile->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [compile->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [compile->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [compile->master]
 [debug] == resolving dependencies for default#journey$sources_2.11;1.0 [optional]
 [debug] == resolving dependencies for default#journey$sources_2.11;1.0 [provided]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [compile-internal->default(compile)]
@@ -1137,6 +1409,14 @@
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.lihaoyi#sourcecode_2.11;0.1.0 [compile-internal->runtime]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.lihaoyi#sourcecode_2.11;0.1.0 [compile-internal->compile]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.lihaoyi#sourcecode_2.11;0.1.0 [compile-internal->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [compile-internal->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [compile-internal->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [compile-internal->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [compile-internal->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [compile-internal->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [compile-internal->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [compile-internal->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [compile-internal->master]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.8 [compile-internal->default(compile)]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.8 [compile-internal->runtime]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.8 [compile-internal->compile]
@@ -1157,6 +1437,34 @@
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [compile-internal->runtime]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [compile-internal->compile]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [compile-internal->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [compile-internal->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [compile-internal->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [compile-internal->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [compile-internal->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [compile-internal->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [compile-internal->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [compile-internal->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [compile-internal->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile-internal->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile-internal->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile-internal->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile-internal->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [compile-internal->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [compile-internal->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [compile-internal->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [compile-internal->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [compile-internal->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [compile-internal->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [compile-internal->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [compile-internal->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [compile-internal->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [compile-internal->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [compile-internal->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [compile-internal->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [compile-internal->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [compile-internal->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [compile-internal->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [compile-internal->master]
 [debug] resolving dependencies for configuration 'runtime-internal'
 [debug] == resolving dependencies for default#journey$sources_2.11;1.0 [runtime-internal]
 [debug] == resolving dependencies for default#journey$sources_2.11;1.0 [runtime]
@@ -1265,6 +1573,14 @@
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.lihaoyi#sourcecode_2.11;0.1.0 [compile->runtime]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.lihaoyi#sourcecode_2.11;0.1.0 [compile->compile]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.lihaoyi#sourcecode_2.11;0.1.0 [compile->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [compile->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [compile->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [compile->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [compile->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [compile->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [compile->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [compile->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [compile->master]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.8 [compile->default(compile)]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.8 [compile->runtime]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.8 [compile->compile]
@@ -1285,6 +1601,34 @@
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [compile->runtime]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [compile->compile]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [compile->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [compile->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [compile->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [compile->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [compile->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [compile->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [compile->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [compile->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [compile->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [compile->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [compile->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [compile->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [compile->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [compile->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [compile->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [compile->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [compile->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [compile->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [compile->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [compile->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [compile->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [compile->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [compile->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [compile->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [compile->master]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [runtime->default(compile)]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [runtime->runtime]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [runtime->compile]
@@ -1389,6 +1733,14 @@
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.lihaoyi#sourcecode_2.11;0.1.0 [runtime->runtime]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.lihaoyi#sourcecode_2.11;0.1.0 [runtime->compile]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.lihaoyi#sourcecode_2.11;0.1.0 [runtime->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [runtime->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [runtime->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [runtime->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [runtime->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [runtime->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [runtime->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [runtime->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [runtime->master]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.8 [runtime->default(compile)]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.8 [runtime->runtime]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.8 [runtime->compile]
@@ -1409,6 +1761,34 @@
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [runtime->runtime]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [runtime->compile]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [runtime->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [runtime->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [runtime->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [runtime->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [runtime->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [runtime->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [runtime->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [runtime->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [runtime->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [runtime->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [runtime->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [runtime->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [runtime->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [runtime->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [runtime->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [runtime->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [runtime->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [runtime->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [runtime->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [runtime->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [runtime->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [runtime->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [runtime->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [runtime->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [runtime->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [runtime->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [runtime->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [runtime->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [runtime->master]
 [debug] == resolving dependencies for default#journey$sources_2.11;1.0 [optional]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [runtime-internal->default(compile)]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [runtime-internal->runtime]
@@ -1514,6 +1894,14 @@
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.lihaoyi#sourcecode_2.11;0.1.0 [runtime-internal->runtime]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.lihaoyi#sourcecode_2.11;0.1.0 [runtime-internal->compile]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.lihaoyi#sourcecode_2.11;0.1.0 [runtime-internal->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [runtime-internal->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [runtime-internal->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [runtime-internal->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [runtime-internal->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [runtime-internal->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [runtime-internal->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [runtime-internal->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [runtime-internal->master]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.8 [runtime-internal->default(compile)]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.8 [runtime-internal->runtime]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.8 [runtime-internal->compile]
@@ -1534,6 +1922,34 @@
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [runtime-internal->runtime]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [runtime-internal->compile]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [runtime-internal->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [runtime-internal->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [runtime-internal->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [runtime-internal->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [runtime-internal->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [runtime-internal->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [runtime-internal->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [runtime-internal->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [runtime-internal->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [runtime-internal->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [runtime-internal->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [runtime-internal->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [runtime-internal->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [runtime-internal->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [runtime-internal->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [runtime-internal->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [runtime-internal->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [runtime-internal->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [runtime-internal->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [runtime-internal->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [runtime-internal->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [runtime-internal->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [runtime-internal->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [runtime-internal->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [runtime-internal->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [runtime-internal->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [runtime-internal->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [runtime-internal->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [runtime-internal->master]
 [debug] resolving dependencies for configuration 'test-internal'
 [debug] == resolving dependencies for default#journey$sources_2.11;1.0 [test-internal]
 [debug] == resolving dependencies for default#journey$sources_2.11;1.0 [test]
@@ -1643,6 +2059,14 @@
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.lihaoyi#sourcecode_2.11;0.1.0 [compile->runtime]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.lihaoyi#sourcecode_2.11;0.1.0 [compile->compile]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.lihaoyi#sourcecode_2.11;0.1.0 [compile->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [compile->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [compile->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [compile->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [compile->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [compile->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [compile->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [compile->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [compile->master]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.8 [compile->default(compile)]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.8 [compile->runtime]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.8 [compile->compile]
@@ -1663,6 +2087,34 @@
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [compile->runtime]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [compile->compile]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [compile->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [compile->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [compile->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [compile->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [compile->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [compile->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [compile->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [compile->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [compile->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [compile->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [compile->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [compile->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [compile->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [compile->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [compile->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [compile->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [compile->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [compile->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [compile->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [compile->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [compile->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [compile->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [compile->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [compile->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [compile->master]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [runtime->default(compile)]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [runtime->runtime]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [runtime->compile]
@@ -1767,6 +2219,14 @@
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.lihaoyi#sourcecode_2.11;0.1.0 [runtime->runtime]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.lihaoyi#sourcecode_2.11;0.1.0 [runtime->compile]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.lihaoyi#sourcecode_2.11;0.1.0 [runtime->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [runtime->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [runtime->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [runtime->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [runtime->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [runtime->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [runtime->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [runtime->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [runtime->master]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.8 [runtime->default(compile)]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.8 [runtime->runtime]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.8 [runtime->compile]
@@ -1787,6 +2247,34 @@
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [runtime->runtime]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [runtime->compile]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [runtime->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [runtime->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [runtime->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [runtime->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [runtime->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [runtime->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [runtime->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [runtime->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [runtime->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [runtime->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [runtime->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [runtime->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [runtime->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [runtime->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [runtime->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [runtime->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [runtime->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [runtime->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [runtime->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [runtime->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [runtime->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [runtime->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [runtime->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [runtime->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [runtime->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [runtime->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [runtime->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [runtime->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [runtime->master]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [test->default(compile)]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [test->runtime]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [test->compile]
@@ -1891,6 +2379,14 @@
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.lihaoyi#sourcecode_2.11;0.1.0 [test->runtime]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.lihaoyi#sourcecode_2.11;0.1.0 [test->compile]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.lihaoyi#sourcecode_2.11;0.1.0 [test->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [test->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [test->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [test->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [test->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [test->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [test->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [test->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [test->master]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.8 [test->default(compile)]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.8 [test->runtime]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.8 [test->compile]
@@ -1911,14 +2407,34 @@
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [test->runtime]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [test->compile]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [test->master]
-[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.1 [test->default(compile)]
-[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.1 [test->runtime]
-[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.1 [test->compile]
-[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.1 [test->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [test->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [test->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [test->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [test->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [test->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [test->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [test->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [test->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [test->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [test->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [test->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [test->master]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [test->default(compile)]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [test->runtime]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [test->compile]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [test->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [test->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [test->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [test->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [test->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [test->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [test->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [test->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [test->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [test->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [test->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [test->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [test->master]
 [debug] == resolving dependencies for default#journey$sources_2.11;1.0 [optional]
 [debug] == resolving dependencies for default#journey$sources_2.11;1.0 [provided]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [test-internal->default(compile)]
@@ -2025,6 +2541,14 @@
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.lihaoyi#sourcecode_2.11;0.1.0 [test-internal->runtime]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.lihaoyi#sourcecode_2.11;0.1.0 [test-internal->compile]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->com.lihaoyi#sourcecode_2.11;0.1.0 [test-internal->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [test-internal->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [test-internal->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [test-internal->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->net.sf.ehcache#ehcache;2.7.4 [test-internal->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [test-internal->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [test-internal->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [test-internal->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->javax.transaction#jta;1.1 [test-internal->master]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.8 [test-internal->default(compile)]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.8 [test-internal->runtime]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.8 [test-internal->compile]
@@ -2045,14 +2569,34 @@
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [test-internal->runtime]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [test-internal->compile]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [test-internal->master]
-[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.1 [test-internal->default(compile)]
-[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.1 [test-internal->runtime]
-[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.1 [test-internal->compile]
-[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.1 [test-internal->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [test-internal->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [test-internal->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [test-internal->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-scalatest-support_2.11;3.2.2 [test-internal->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [test-internal->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [test-internal->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [test-internal->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalamock#scalamock-core_2.11;3.2.2 [test-internal->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [test-internal->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [test-internal->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [test-internal->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [test-internal->master]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [test-internal->default(compile)]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [test-internal->runtime]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [test-internal->compile]
 [debug] == resolving dependencies default#journey$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [test-internal->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [test-internal->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [test-internal->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [test-internal->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.19 [test-internal->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [test-internal->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [test-internal->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [test-internal->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.19 [test-internal->master]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [test-internal->default(compile)]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [test-internal->runtime]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [test-internal->compile]
+[debug] == resolving dependencies default#journey$sources_2.11;1.0->log4j#log4j;1.2.17 [test-internal->master]
 [debug] resolving dependencies for configuration 'plugin'
 [debug] == resolving dependencies for default#journey$sources_2.11;1.0 [plugin]
 [debug] resolving dependencies for configuration 'sources'
@@ -2148,8 +2692,8 @@
 [debug] 	[NOT REQUIRED] com.typesafe#ssl-config-akka_2.11;0.1.3!ssl-config-akka_2.11.jar
 [debug] 	[NOT REQUIRED] com.typesafe#ssl-config-core_2.11;0.1.3!ssl-config-core_2.11.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe#ssl-config-core_2.11;0.1.3!ssl-config-core_2.11.jar
-[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4!scala-parser-combinators_2.11.jar
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4!scala-parser-combinators_2.11.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4!scala-parser-combinators_2.11.jar
 [debug] 	[NOT REQUIRED] org.reactivestreams#reactive-streams;1.0.0!reactive-streams.jar
 [debug] 	[NOT REQUIRED] org.reactivestreams#reactive-streams;1.0.0!reactive-streams.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.akka#akka-testkit_2.11;2.4.2!akka-testkit_2.11.jar(src)
@@ -2158,6 +2702,10 @@
 [debug] 	[NOT REQUIRED] com.typesafe.akka#akka-stream-testkit_2.11;2.4.2!akka-stream-testkit_2.11.jar(src)
 [debug] 	[NOT REQUIRED] com.lihaoyi#sourcecode_2.11;0.1.0!sourcecode_2.11.jar(src)
 [debug] 	[NOT REQUIRED] com.lihaoyi#sourcecode_2.11;0.1.0!sourcecode_2.11.jar
+[debug] 	[NOT REQUIRED] net.sf.ehcache#ehcache;2.7.4!ehcache.jar(src)
+[debug] 	[NOT REQUIRED] net.sf.ehcache#ehcache;2.7.4!ehcache.jar
+[debug] 	[NOT REQUIRED] javax.transaction#jta;1.1!jta.jar
+[debug] 	[NOT REQUIRED] javax.transaction#jta;1.1!jta.jar(src)
 [debug] 	[NOT REQUIRED] org.fusesource.leveldbjni#leveldbjni-all;1.8!leveldbjni-all.jar(src)
 [debug] 	[NOT REQUIRED] org.fusesource.leveldbjni#leveldbjni-all;1.8!leveldbjni-all.jar
 [debug] 	[NOT REQUIRED] org.specs2#specs2_2.9.1;1.8!specs2_2.9.1.jar
@@ -2165,37 +2713,55 @@
 [debug] 	[NOT REQUIRED] org.specs2#specs2-scalaz-core_2.9.1;6.0.1!specs2-scalaz-core_2.9.1.jar
 [debug] 	[NOT REQUIRED] org.specs2#specs2-scalaz-core_2.9.1;6.0.1!specs2-scalaz-core_2.9.1.jar(src)
 [debug] 	[NOT REQUIRED] org.scalafx#scalafx_2.11;8.0.60-R9!scalafx_2.11.jar
-[debug] 		tried C:\Users\jcohe_000\.ivy2\local\org.scalafx\scalafx_2.11\8.0.60-R9\srcs\scalafx_2.11-sources.jar
-[debug] 		tried C:\Users\jcohe_000\.activator\repository\org.scalafx\scalafx_2.11\8.0.60-R9\srcs\scalafx_2.11-sources.jar
-[debug] 		tried C:\dev\activator-dist-1.3.6\repository\org.scalafx\scalafx_2.11\8.0.60-R9\srcs\scalafx_2.11-sources.jar
-[debug] 		tried https://repo1.maven.org/maven2/org/scalafx/scalafx_2.11/8.0.60-R9/scalafx_2.11-8.0.60-R9-sources.jar
-[info] downloading https://repo1.maven.org/maven2/org/scalafx/scalafx_2.11/8.0.60-R9/scalafx_2.11-8.0.60-R9-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scalafx/scalafx_2.11/8.0.60-R9/scalafx_2.11-8.0.60-R9-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scalafx/scalafx_2.11/8.0.60-R9/scalafx_2.11-8.0.60-R9-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/scalafx/scalafx_2.11/8.0.60-R9/scalafx_2.11-8.0.60-R9-sources.jar
-[info] 	[SUCCESSFUL ] org.scalafx#scalafx_2.11;8.0.60-R9!scalafx_2.11.jar(src) (491ms)
+[debug] 	[NOT REQUIRED] org.scalafx#scalafx_2.11;8.0.60-R9!scalafx_2.11.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.11.7!scala-reflect.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.11.7!scala-reflect.jar
-[debug] 	[NOT REQUIRED] org.scalatest#scalatest_2.11;2.2.1!scalatest_2.11.jar(src)
-[debug] 	[NOT REQUIRED] org.scalatest#scalatest_2.11;2.2.1!scalatest_2.11.jar
+[debug] 	[NOT REQUIRED] org.scalamock#scalamock-scalatest-support_2.11;3.2.2!scalamock-scalatest-support_2.11.jar(src)
+[debug] 	[NOT REQUIRED] org.scalamock#scalamock-scalatest-support_2.11;3.2.2!scalamock-scalatest-support_2.11.jar
+[debug] 	[NOT REQUIRED] org.scalamock#scalamock-core_2.11;3.2.2!scalamock-core_2.11.jar
+[debug] 	[NOT REQUIRED] org.scalamock#scalamock-core_2.11;3.2.2!scalamock-core_2.11.jar(src)
+[debug] 	[NOT REQUIRED] org.scalatest#scalatest_2.11;2.2.4!scalatest_2.11.jar(src)
+[debug] 	[NOT REQUIRED] org.scalatest#scalatest_2.11;2.2.4!scalatest_2.11.jar
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.2!scala-xml_2.11.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.2!scala-xml_2.11.jar
+[debug] 	[NOT REQUIRED] org.slf4j#slf4j-log4j12;1.7.19!slf4j-log4j12.jar
+[debug] 		tried /Users/jcohen66/.ivy2/local/org.slf4j/slf4j-log4j12/1.7.19/srcs/slf4j-log4j12-sources.jar
+[debug] 		tried /Users/jcohen66/.activator/repository/org.slf4j/slf4j-log4j12/1.7.19/srcs/slf4j-log4j12-sources.jar
+[debug] 		tried /Users/jcohen66/dev/activator-dist-1.3.6/repository/org.slf4j/slf4j-log4j12/1.7.19/srcs/slf4j-log4j12-sources.jar
+[debug] 		tried https://repo1.maven.org/maven2/org/slf4j/slf4j-log4j12/1.7.19/slf4j-log4j12-1.7.19-sources.jar
+[info] downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-log4j12/1.7.19/slf4j-log4j12-1.7.19-sources.jar ...
+[debug] 	public: downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-log4j12/1.7.19/slf4j-log4j12-1.7.19-sources.jar
+[debug] 	public: downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-log4j12/1.7.19/slf4j-log4j12-1.7.19-sources.jar.sha1
+[debug] sha1 OK for https://repo1.maven.org/maven2/org/slf4j/slf4j-log4j12/1.7.19/slf4j-log4j12-1.7.19-sources.jar
+[info] 	[SUCCESSFUL ] org.slf4j#slf4j-log4j12;1.7.19!slf4j-log4j12.jar(src) (203ms)
+[debug] 		tried /Users/jcohen66/.ivy2/local/org.slf4j/slf4j-api/1.7.19/srcs/slf4j-api-sources.jar
+[debug] 	[NOT REQUIRED] org.slf4j#slf4j-api;1.7.19!slf4j-api.jar
+[debug] 		tried /Users/jcohen66/.activator/repository/org.slf4j/slf4j-api/1.7.19/srcs/slf4j-api-sources.jar
+[debug] 		tried /Users/jcohen66/dev/activator-dist-1.3.6/repository/org.slf4j/slf4j-api/1.7.19/srcs/slf4j-api-sources.jar
+[debug] 		tried https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.19/slf4j-api-1.7.19-sources.jar
+[info] downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.19/slf4j-api-1.7.19-sources.jar ...
+[debug] 	public: downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.19/slf4j-api-1.7.19-sources.jar
+[debug] 	public: downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.19/slf4j-api-1.7.19-sources.jar.sha1
+[debug] sha1 OK for https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.19/slf4j-api-1.7.19-sources.jar
+[info] 	[SUCCESSFUL ] org.slf4j#slf4j-api;1.7.19!slf4j-api.jar(src) (345ms)
+[debug] 	[NOT REQUIRED] log4j#log4j;1.2.17!log4j.jar
+[debug] 	[NOT REQUIRED] log4j#log4j;1.2.17!log4j.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.11.8!scala-compiler.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.11.8!scala-reflect.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.4!scala-xml_2.11.jar(src)
 [debug] 	[NOT REQUIRED] jline#jline;2.12.1!jline.jar(src)
-[debug] :: resolution report :: resolve 564ms :: artifacts dl 636ms
-[debug] 	report for default#journey$sources_2.11;1.0 compile produced in C:\Src\scala\Journey\target\resolution-cache\reports\default-journey$sources_2.11-compile.xml
-[debug] 	report for default#journey$sources_2.11;1.0 runtime produced in C:\Src\scala\Journey\target\resolution-cache\reports\default-journey$sources_2.11-runtime.xml
-[debug] 	report for default#journey$sources_2.11;1.0 test produced in C:\Src\scala\Journey\target\resolution-cache\reports\default-journey$sources_2.11-test.xml
-[debug] 	report for default#journey$sources_2.11;1.0 provided produced in C:\Src\scala\Journey\target\resolution-cache\reports\default-journey$sources_2.11-provided.xml
-[debug] 	report for default#journey$sources_2.11;1.0 optional produced in C:\Src\scala\Journey\target\resolution-cache\reports\default-journey$sources_2.11-optional.xml
-[debug] 	report for default#journey$sources_2.11;1.0 compile-internal produced in C:\Src\scala\Journey\target\resolution-cache\reports\default-journey$sources_2.11-compile-internal.xml
-[debug] 	report for default#journey$sources_2.11;1.0 runtime-internal produced in C:\Src\scala\Journey\target\resolution-cache\reports\default-journey$sources_2.11-runtime-internal.xml
-[debug] 	report for default#journey$sources_2.11;1.0 test-internal produced in C:\Src\scala\Journey\target\resolution-cache\reports\default-journey$sources_2.11-test-internal.xml
-[debug] 	report for default#journey$sources_2.11;1.0 plugin produced in C:\Src\scala\Journey\target\resolution-cache\reports\default-journey$sources_2.11-plugin.xml
-[debug] 	report for default#journey$sources_2.11;1.0 sources produced in C:\Src\scala\Journey\target\resolution-cache\reports\default-journey$sources_2.11-sources.xml
-[debug] 	report for default#journey$sources_2.11;1.0 docs produced in C:\Src\scala\Journey\target\resolution-cache\reports\default-journey$sources_2.11-docs.xml
-[debug] 	report for default#journey$sources_2.11;1.0 pom produced in C:\Src\scala\Journey\target\resolution-cache\reports\default-journey$sources_2.11-pom.xml
-[debug] 	report for default#journey$sources_2.11;1.0 scala-tool produced in C:\Src\scala\Journey\target\resolution-cache\reports\default-journey$sources_2.11-scala-tool.xml
-[debug] 	resolve done (564ms resolve - 636ms download)
+[debug] :: resolution report :: resolve 531ms :: artifacts dl 579ms
+[debug] 	report for default#journey$sources_2.11;1.0 compile produced in /Users/jcohen66/src/scala/Journey/target/resolution-cache/reports/default-journey$sources_2.11-compile.xml
+[debug] 	report for default#journey$sources_2.11;1.0 runtime produced in /Users/jcohen66/src/scala/Journey/target/resolution-cache/reports/default-journey$sources_2.11-runtime.xml
+[debug] 	report for default#journey$sources_2.11;1.0 test produced in /Users/jcohen66/src/scala/Journey/target/resolution-cache/reports/default-journey$sources_2.11-test.xml
+[debug] 	report for default#journey$sources_2.11;1.0 provided produced in /Users/jcohen66/src/scala/Journey/target/resolution-cache/reports/default-journey$sources_2.11-provided.xml
+[debug] 	report for default#journey$sources_2.11;1.0 optional produced in /Users/jcohen66/src/scala/Journey/target/resolution-cache/reports/default-journey$sources_2.11-optional.xml
+[debug] 	report for default#journey$sources_2.11;1.0 compile-internal produced in /Users/jcohen66/src/scala/Journey/target/resolution-cache/reports/default-journey$sources_2.11-compile-internal.xml
+[debug] 	report for default#journey$sources_2.11;1.0 runtime-internal produced in /Users/jcohen66/src/scala/Journey/target/resolution-cache/reports/default-journey$sources_2.11-runtime-internal.xml
+[debug] 	report for default#journey$sources_2.11;1.0 test-internal produced in /Users/jcohen66/src/scala/Journey/target/resolution-cache/reports/default-journey$sources_2.11-test-internal.xml
+[debug] 	report for default#journey$sources_2.11;1.0 plugin produced in /Users/jcohen66/src/scala/Journey/target/resolution-cache/reports/default-journey$sources_2.11-plugin.xml
+[debug] 	report for default#journey$sources_2.11;1.0 sources produced in /Users/jcohen66/src/scala/Journey/target/resolution-cache/reports/default-journey$sources_2.11-sources.xml
+[debug] 	report for default#journey$sources_2.11;1.0 docs produced in /Users/jcohen66/src/scala/Journey/target/resolution-cache/reports/default-journey$sources_2.11-docs.xml
+[debug] 	report for default#journey$sources_2.11;1.0 pom produced in /Users/jcohen66/src/scala/Journey/target/resolution-cache/reports/default-journey$sources_2.11-pom.xml
+[debug] 	report for default#journey$sources_2.11;1.0 scala-tool produced in /Users/jcohen66/src/scala/Journey/target/resolution-cache/reports/default-journey$sources_2.11-scala-tool.xml
+[debug] 	resolve done (531ms resolve - 579ms download)

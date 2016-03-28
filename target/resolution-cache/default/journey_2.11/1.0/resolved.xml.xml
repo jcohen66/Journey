@@ -4,7 +4,7 @@
 		module="journey_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20160327133500"
+		publication="20160328195317"
 	>
 		<description>
 		Journey
@@ -44,9 +44,13 @@
 		<dependency org="org.iq80.leveldb" name="leveldb" rev="0.7" conf="compile->default(compile)"/>
 		<dependency org="org.scalatest" name="scalatest_2.11" rev="2.2.1" conf="test->default(compile)"/>
 		<dependency org="com.github.dnvriend" name="akka-persistence-inmemory_2.11" rev="1.2.11" conf="compile->default(compile)"/>
+		<dependency org="net.sf.ehcache" name="ehcache" rev="2.7.4" conf="compile->default(compile)"/>
+		<dependency org="javax.transaction" name="jta" rev="1.1" conf="compile->default(compile)"/>
 		<dependency org="com.typesafe.akka" name="akka-testkit_2.11" rev="2.4.0" conf="test->default(compile)"/>
 		<dependency org="org.fusesource.leveldbjni" name="leveldbjni-all" rev="1.8" conf="compile->default(compile)"/>
 		<dependency org="org.specs2" name="specs2_2.9.1" rev="1.8" conf="compile->default(compile)"/>
 		<dependency org="org.scalafx" name="scalafx_2.11" rev="8.0.60-R9" conf="compile->default(compile)"/>
+		<dependency org="org.scalamock" name="scalamock-scalatest-support_2.11" rev="3.2.2" conf="compile->default(compile)"/>
+		<dependency org="org.slf4j" name="slf4j-log4j12" rev="1.7.19" conf="compile->default(compile)"/>
 	</dependencies>
 </ivy-module>

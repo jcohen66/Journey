@@ -1,4 +1,4 @@
-[info] Updating {file:/C:/Src/scala/Journey/project/}journey-build...
+[info] Updating {file:/Users/jcohen66/src/scala/Journey/project/}journey-build...
 [debug] :: resolving dependencies :: default#journey-build;0.1-SNAPSHOT
 [debug] 	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool]
 [debug] 	validate = true
@@ -16,7 +16,7 @@
 [debug] == resolving dependencies for default#journey-build;0.1-SNAPSHOT [provided]
 [debug] == resolving dependencies default#journey-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.4 [provided->default(compile)]
 [info] Resolving org.scala-lang#scala-library;2.10.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1501c5e8
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@feb8be3
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.10.4
 [debug] 	found org.scala-lang#scala-library;2.10.4 in sbt-chain
 [debug] 	[2.10.4] org.scala-lang#scala-library;2.10.4
@@ -330,23 +330,23 @@
 [debug] 	found org.scala-lang.modules#scala-pickling_2.10;0.10.0 in sbt-chain
 [debug] == resolving dependencies org.scala-sbt#serialization_2.10;0.1.1->org.scala-lang.modules#scala-pickling_2.10;0.10.0 [compile->runtime]
 [debug] == resolving dependencies org.scala-sbt#serialization_2.10;0.1.1->org.scala-lang.modules#scala-pickling_2.10;0.10.0 [compile->compile]
-[debug] == resolving dependencies org.scala-lang.modules#scala-pickling_2.10;0.10.0->org.scala-lang#scala-compiler;2.10.4 [compile->master(compile)]
+[debug] == resolving dependencies org.scala-lang.modules#scala-pickling_2.10;0.10.0->org.scala-lang#scala-compiler;2.10.4 [compile->master(*)]
 [debug] == resolving dependencies org.scala-lang.modules#scala-pickling_2.10;0.10.0->org.scala-lang#scala-compiler;2.10.4 [compile->compile(*)]
 [debug] == resolving dependencies org.scala-lang.modules#scala-pickling_2.10;0.10.0->org.scala-lang#scala-compiler;2.10.4 [compile->runtime(*)]
 [debug] == resolving dependencies org.scala-lang.modules#scala-pickling_2.10;0.10.0->org.scala-lang#scala-compiler;2.10.4 [compile->compile]
-[debug] == resolving dependencies org.scala-lang.modules#scala-pickling_2.10;0.10.0->org.scala-lang#scala-library;2.10.4 [compile->master(compile)]
+[debug] == resolving dependencies org.scala-lang.modules#scala-pickling_2.10;0.10.0->org.scala-lang#scala-library;2.10.4 [compile->master(*)]
 [debug] == resolving dependencies org.scala-lang.modules#scala-pickling_2.10;0.10.0->org.scala-lang#scala-library;2.10.4 [compile->compile(*)]
-[debug] == resolving dependencies org.scala-lang.modules#scala-pickling_2.10;0.10.0->org.scala-lang#scala-reflect;2.10.4 [compile->master(compile)]
+[debug] == resolving dependencies org.scala-lang.modules#scala-pickling_2.10;0.10.0->org.scala-lang#scala-reflect;2.10.4 [compile->master(*)]
 [debug] == resolving dependencies org.scala-lang.modules#scala-pickling_2.10;0.10.0->org.scala-lang#scala-reflect;2.10.4 [compile->compile(*)]
-[debug] == resolving dependencies org.scala-lang.modules#scala-pickling_2.10;0.10.0->org.scalamacros#quasiquotes_2.10;2.0.1 [compile->master(compile)]
+[debug] == resolving dependencies org.scala-lang.modules#scala-pickling_2.10;0.10.0->org.scalamacros#quasiquotes_2.10;2.0.1 [compile->master(*)]
 [info] Resolving org.scalamacros#quasiquotes_2.10;2.0.1 ...
-[debug] sbt-chain: Checking cache for: dependency: org.scalamacros#quasiquotes_2.10;2.0.1 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
+[debug] sbt-chain: Checking cache for: dependency: org.scalamacros#quasiquotes_2.10;2.0.1 {compile=[compile(*), master(*)], runtime=[runtime(*)]}
 [debug] sbt-chain: module revision found in cache: org.scalamacros#quasiquotes_2.10;2.0.1
 [debug] 	found org.scalamacros#quasiquotes_2.10;2.0.1 in sbt-chain
 [debug] == resolving dependencies org.scala-lang.modules#scala-pickling_2.10;0.10.0->org.scalamacros#quasiquotes_2.10;2.0.1 [compile->compile(*)]
-[debug] == resolving dependencies org.scalamacros#quasiquotes_2.10;2.0.1->org.scala-lang#scala-library;2.10.4 [compile->master(compile)]
+[debug] == resolving dependencies org.scalamacros#quasiquotes_2.10;2.0.1->org.scala-lang#scala-library;2.10.4 [compile->master(*)]
 [debug] == resolving dependencies org.scalamacros#quasiquotes_2.10;2.0.1->org.scala-lang#scala-library;2.10.4 [compile->compile(*)]
-[debug] == resolving dependencies org.scalamacros#quasiquotes_2.10;2.0.1->org.scala-lang#scala-reflect;2.10.4 [compile->master(compile)]
+[debug] == resolving dependencies org.scalamacros#quasiquotes_2.10;2.0.1->org.scala-lang#scala-reflect;2.10.4 [compile->master(*)]
 [debug] == resolving dependencies org.scalamacros#quasiquotes_2.10;2.0.1->org.scala-lang#scala-reflect;2.10.4 [compile->compile(*)]
 [debug] == resolving dependencies org.scala-lang.modules#scala-pickling_2.10;0.10.0->org.scalamacros#quasiquotes_2.10;2.0.1 [compile->runtime(*)]
 [debug] == resolving dependencies org.scala-lang.modules#scala-pickling_2.10;0.10.0->org.scalamacros#quasiquotes_2.10;2.0.1 [compile->compile]
@@ -901,17 +901,17 @@
 [debug] == resolving dependencies org.scala-sbt#serialization_2.10;0.1.1->org.scala-lang.modules#scala-pickling_2.10;0.10.0 [compile->default(compile)]
 [debug] == resolving dependencies org.scala-sbt#serialization_2.10;0.1.1->org.scala-lang.modules#scala-pickling_2.10;0.10.0 [compile->runtime]
 [debug] == resolving dependencies org.scala-sbt#serialization_2.10;0.1.1->org.scala-lang.modules#scala-pickling_2.10;0.10.0 [compile->compile]
-[debug] == resolving dependencies org.scala-lang.modules#scala-pickling_2.10;0.10.0->org.scala-lang#scala-compiler;2.10.4 [compile->master(compile)]
+[debug] == resolving dependencies org.scala-lang.modules#scala-pickling_2.10;0.10.0->org.scala-lang#scala-compiler;2.10.4 [compile->master(*)]
 [debug] == resolving dependencies org.scala-lang.modules#scala-pickling_2.10;0.10.0->org.scala-lang#scala-compiler;2.10.4 [compile->compile(*)]
-[debug] == resolving dependencies org.scala-lang.modules#scala-pickling_2.10;0.10.0->org.scala-lang#scala-library;2.10.4 [compile->master(compile)]
+[debug] == resolving dependencies org.scala-lang.modules#scala-pickling_2.10;0.10.0->org.scala-lang#scala-library;2.10.4 [compile->master(*)]
 [debug] == resolving dependencies org.scala-lang.modules#scala-pickling_2.10;0.10.0->org.scala-lang#scala-library;2.10.4 [compile->compile(*)]
-[debug] == resolving dependencies org.scala-lang.modules#scala-pickling_2.10;0.10.0->org.scala-lang#scala-reflect;2.10.4 [compile->master(compile)]
+[debug] == resolving dependencies org.scala-lang.modules#scala-pickling_2.10;0.10.0->org.scala-lang#scala-reflect;2.10.4 [compile->master(*)]
 [debug] == resolving dependencies org.scala-lang.modules#scala-pickling_2.10;0.10.0->org.scala-lang#scala-reflect;2.10.4 [compile->compile(*)]
-[debug] == resolving dependencies org.scala-lang.modules#scala-pickling_2.10;0.10.0->org.scalamacros#quasiquotes_2.10;2.0.1 [compile->master(compile)]
+[debug] == resolving dependencies org.scala-lang.modules#scala-pickling_2.10;0.10.0->org.scalamacros#quasiquotes_2.10;2.0.1 [compile->master(*)]
 [debug] == resolving dependencies org.scala-lang.modules#scala-pickling_2.10;0.10.0->org.scalamacros#quasiquotes_2.10;2.0.1 [compile->compile(*)]
-[debug] == resolving dependencies org.scalamacros#quasiquotes_2.10;2.0.1->org.scala-lang#scala-library;2.10.4 [compile->master(compile)]
+[debug] == resolving dependencies org.scalamacros#quasiquotes_2.10;2.0.1->org.scala-lang#scala-library;2.10.4 [compile->master(*)]
 [debug] == resolving dependencies org.scalamacros#quasiquotes_2.10;2.0.1->org.scala-lang#scala-library;2.10.4 [compile->compile(*)]
-[debug] == resolving dependencies org.scalamacros#quasiquotes_2.10;2.0.1->org.scala-lang#scala-reflect;2.10.4 [compile->master(compile)]
+[debug] == resolving dependencies org.scalamacros#quasiquotes_2.10;2.0.1->org.scala-lang#scala-reflect;2.10.4 [compile->master(*)]
 [debug] == resolving dependencies org.scalamacros#quasiquotes_2.10;2.0.1->org.scala-lang#scala-reflect;2.10.4 [compile->compile(*)]
 [debug] == resolving dependencies org.scala-lang.modules#scala-pickling_2.10;0.10.0->org.scala-lang#scala-compiler;2.10.4 [runtime->runtime(*)]
 [debug] == resolving dependencies org.scala-lang.modules#scala-pickling_2.10;0.10.0->org.scala-lang#scala-compiler;2.10.4 [runtime->compile]
@@ -1379,17 +1379,17 @@
 [debug] == resolving dependencies org.scala-sbt#serialization_2.10;0.1.1->org.scala-lang.modules#scala-pickling_2.10;0.10.0 [compile->default(compile)]
 [debug] == resolving dependencies org.scala-sbt#serialization_2.10;0.1.1->org.scala-lang.modules#scala-pickling_2.10;0.10.0 [compile->runtime]
 [debug] == resolving dependencies org.scala-sbt#serialization_2.10;0.1.1->org.scala-lang.modules#scala-pickling_2.10;0.10.0 [compile->compile]
-[debug] == resolving dependencies org.scala-lang.modules#scala-pickling_2.10;0.10.0->org.scala-lang#scala-compiler;2.10.4 [compile->master(compile)]
+[debug] == resolving dependencies org.scala-lang.modules#scala-pickling_2.10;0.10.0->org.scala-lang#scala-compiler;2.10.4 [compile->master(*)]
 [debug] == resolving dependencies org.scala-lang.modules#scala-pickling_2.10;0.10.0->org.scala-lang#scala-compiler;2.10.4 [compile->compile(*)]
-[debug] == resolving dependencies org.scala-lang.modules#scala-pickling_2.10;0.10.0->org.scala-lang#scala-library;2.10.4 [compile->master(compile)]
+[debug] == resolving dependencies org.scala-lang.modules#scala-pickling_2.10;0.10.0->org.scala-lang#scala-library;2.10.4 [compile->master(*)]
 [debug] == resolving dependencies org.scala-lang.modules#scala-pickling_2.10;0.10.0->org.scala-lang#scala-library;2.10.4 [compile->compile(*)]
-[debug] == resolving dependencies org.scala-lang.modules#scala-pickling_2.10;0.10.0->org.scala-lang#scala-reflect;2.10.4 [compile->master(compile)]
+[debug] == resolving dependencies org.scala-lang.modules#scala-pickling_2.10;0.10.0->org.scala-lang#scala-reflect;2.10.4 [compile->master(*)]
 [debug] == resolving dependencies org.scala-lang.modules#scala-pickling_2.10;0.10.0->org.scala-lang#scala-reflect;2.10.4 [compile->compile(*)]
-[debug] == resolving dependencies org.scala-lang.modules#scala-pickling_2.10;0.10.0->org.scalamacros#quasiquotes_2.10;2.0.1 [compile->master(compile)]
+[debug] == resolving dependencies org.scala-lang.modules#scala-pickling_2.10;0.10.0->org.scalamacros#quasiquotes_2.10;2.0.1 [compile->master(*)]
 [debug] == resolving dependencies org.scala-lang.modules#scala-pickling_2.10;0.10.0->org.scalamacros#quasiquotes_2.10;2.0.1 [compile->compile(*)]
-[debug] == resolving dependencies org.scalamacros#quasiquotes_2.10;2.0.1->org.scala-lang#scala-library;2.10.4 [compile->master(compile)]
+[debug] == resolving dependencies org.scalamacros#quasiquotes_2.10;2.0.1->org.scala-lang#scala-library;2.10.4 [compile->master(*)]
 [debug] == resolving dependencies org.scalamacros#quasiquotes_2.10;2.0.1->org.scala-lang#scala-library;2.10.4 [compile->compile(*)]
-[debug] == resolving dependencies org.scalamacros#quasiquotes_2.10;2.0.1->org.scala-lang#scala-reflect;2.10.4 [compile->master(compile)]
+[debug] == resolving dependencies org.scalamacros#quasiquotes_2.10;2.0.1->org.scala-lang#scala-reflect;2.10.4 [compile->master(*)]
 [debug] == resolving dependencies org.scalamacros#quasiquotes_2.10;2.0.1->org.scala-lang#scala-reflect;2.10.4 [compile->compile(*)]
 [debug] == resolving dependencies org.scala-lang.modules#scala-pickling_2.10;0.10.0->org.scala-lang#scala-compiler;2.10.4 [runtime->runtime(*)]
 [debug] == resolving dependencies org.scala-lang.modules#scala-pickling_2.10;0.10.0->org.scala-lang#scala-compiler;2.10.4 [runtime->compile]
@@ -1766,19 +1766,19 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.8!apply-macro.jar
 [debug] 	[NOT REQUIRED] org.scala-lang#jline;2.10.4!jline.jar
 [debug] 	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar
-[debug] :: resolution report :: resolve 2175ms :: artifacts dl 270ms
-[debug] 	report for default#journey-build;0.1-SNAPSHOT compile produced in C:\Src\scala\Journey\project\target\resolution-cache\reports\default-journey-build-compile.xml
-[debug] 	report for default#journey-build;0.1-SNAPSHOT runtime produced in C:\Src\scala\Journey\project\target\resolution-cache\reports\default-journey-build-runtime.xml
-[debug] 	report for default#journey-build;0.1-SNAPSHOT test produced in C:\Src\scala\Journey\project\target\resolution-cache\reports\default-journey-build-test.xml
-[debug] 	report for default#journey-build;0.1-SNAPSHOT provided produced in C:\Src\scala\Journey\project\target\resolution-cache\reports\default-journey-build-provided.xml
-[debug] 	report for default#journey-build;0.1-SNAPSHOT optional produced in C:\Src\scala\Journey\project\target\resolution-cache\reports\default-journey-build-optional.xml
-[debug] 	report for default#journey-build;0.1-SNAPSHOT compile-internal produced in C:\Src\scala\Journey\project\target\resolution-cache\reports\default-journey-build-compile-internal.xml
-[debug] 	report for default#journey-build;0.1-SNAPSHOT runtime-internal produced in C:\Src\scala\Journey\project\target\resolution-cache\reports\default-journey-build-runtime-internal.xml
-[debug] 	report for default#journey-build;0.1-SNAPSHOT test-internal produced in C:\Src\scala\Journey\project\target\resolution-cache\reports\default-journey-build-test-internal.xml
-[debug] 	report for default#journey-build;0.1-SNAPSHOT plugin produced in C:\Src\scala\Journey\project\target\resolution-cache\reports\default-journey-build-plugin.xml
-[debug] 	report for default#journey-build;0.1-SNAPSHOT sources produced in C:\Src\scala\Journey\project\target\resolution-cache\reports\default-journey-build-sources.xml
-[debug] 	report for default#journey-build;0.1-SNAPSHOT docs produced in C:\Src\scala\Journey\project\target\resolution-cache\reports\default-journey-build-docs.xml
-[debug] 	report for default#journey-build;0.1-SNAPSHOT pom produced in C:\Src\scala\Journey\project\target\resolution-cache\reports\default-journey-build-pom.xml
-[debug] 	report for default#journey-build;0.1-SNAPSHOT scala-tool produced in C:\Src\scala\Journey\project\target\resolution-cache\reports\default-journey-build-scala-tool.xml
-[debug] 	resolve done (2175ms resolve - 270ms download)
+[debug] :: resolution report :: resolve 951ms :: artifacts dl 21ms
+[debug] 	report for default#journey-build;0.1-SNAPSHOT compile produced in /Users/jcohen66/src/scala/Journey/project/target/resolution-cache/reports/default-journey-build-compile.xml
+[debug] 	report for default#journey-build;0.1-SNAPSHOT runtime produced in /Users/jcohen66/src/scala/Journey/project/target/resolution-cache/reports/default-journey-build-runtime.xml
+[debug] 	report for default#journey-build;0.1-SNAPSHOT test produced in /Users/jcohen66/src/scala/Journey/project/target/resolution-cache/reports/default-journey-build-test.xml
+[debug] 	report for default#journey-build;0.1-SNAPSHOT provided produced in /Users/jcohen66/src/scala/Journey/project/target/resolution-cache/reports/default-journey-build-provided.xml
+[debug] 	report for default#journey-build;0.1-SNAPSHOT optional produced in /Users/jcohen66/src/scala/Journey/project/target/resolution-cache/reports/default-journey-build-optional.xml
+[debug] 	report for default#journey-build;0.1-SNAPSHOT compile-internal produced in /Users/jcohen66/src/scala/Journey/project/target/resolution-cache/reports/default-journey-build-compile-internal.xml
+[debug] 	report for default#journey-build;0.1-SNAPSHOT runtime-internal produced in /Users/jcohen66/src/scala/Journey/project/target/resolution-cache/reports/default-journey-build-runtime-internal.xml
+[debug] 	report for default#journey-build;0.1-SNAPSHOT test-internal produced in /Users/jcohen66/src/scala/Journey/project/target/resolution-cache/reports/default-journey-build-test-internal.xml
+[debug] 	report for default#journey-build;0.1-SNAPSHOT plugin produced in /Users/jcohen66/src/scala/Journey/project/target/resolution-cache/reports/default-journey-build-plugin.xml
+[debug] 	report for default#journey-build;0.1-SNAPSHOT sources produced in /Users/jcohen66/src/scala/Journey/project/target/resolution-cache/reports/default-journey-build-sources.xml
+[debug] 	report for default#journey-build;0.1-SNAPSHOT docs produced in /Users/jcohen66/src/scala/Journey/project/target/resolution-cache/reports/default-journey-build-docs.xml
+[debug] 	report for default#journey-build;0.1-SNAPSHOT pom produced in /Users/jcohen66/src/scala/Journey/project/target/resolution-cache/reports/default-journey-build-pom.xml
+[debug] 	report for default#journey-build;0.1-SNAPSHOT scala-tool produced in /Users/jcohen66/src/scala/Journey/project/target/resolution-cache/reports/default-journey-build-scala-tool.xml
+[debug] 	resolve done (951ms resolve - 21ms download)
 [info] Done updating.
