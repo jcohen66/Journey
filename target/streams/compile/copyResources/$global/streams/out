@@ -1,9 +1,0 @@
-[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
-[0m[[0mdebug[0m] [0m	(/Users/jcohen66/src/scala/journey/src/main/resources/application.conf,/Users/jcohen66/src/scala/journey/target/scala-2.11/classes/application.conf)[0m
-[0m[[0mdebug[0m] [0m	(/Users/jcohen66/src/scala/journey/src/main/resources/loadbalancer.conf,/Users/jcohen66/src/scala/journey/target/scala-2.11/classes/loadbalancer.conf)[0m
-[0m[[0mdebug[0m] [0m	(/Users/jcohen66/src/scala/journey/src/main/resources/logback.xml,/Users/jcohen66/src/scala/journey/target/scala-2.11/classes/logback.xml)[0m
-[0m[[0mdebug[0m] [0m	(/Users/jcohen66/src/scala/journey/src/main/resources/native,/Users/jcohen66/src/scala/journey/target/scala-2.11/classes/native)[0m
-[0m[[0mdebug[0m] [0m	(/Users/jcohen66/src/scala/journey/src/main/resources/sharding.conf,/Users/jcohen66/src/scala/journey/target/scala-2.11/classes/sharding.conf)[0m
-[0m[[0mdebug[0m] [0m	(/Users/jcohen66/src/scala/journey/src/main/resources/singleton.conf,/Users/jcohen66/src/scala/journey/target/scala-2.11/classes/singleton.conf)[0m
-[0m[[0mdebug[0m] [0m	(/Users/jcohen66/src/scala/journey/src/main/resources/native/libsigar-amd64-linux.so,/Users/jcohen66/src/scala/journey/target/scala-2.11/classes/native/libsigar-amd64-linux.so)[0m
-[0m[[0mdebug[0m] [0m	(/Users/jcohen66/src/scala/journey/src/main/resources/native/libsigar-universal64-macosx.dylib,/Users/jcohen66/src/scala/journey/target/scala-2.11/classes/native/libsigar-universal64-macosx.dylib)[0m

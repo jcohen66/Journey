@@ -1,3 +1,0 @@
-[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
-[0m[[0mdebug[0m] [0m	(/Users/jcohen66/src/scala/journey/src/test/resources/application.conf,/Users/jcohen66/src/scala/journey/target/scala-2.11/test-classes/application.conf)[0m
-[0m[[0mdebug[0m] [0m	(/Users/jcohen66/src/scala/journey/src/test/resources/logback.xml,/Users/jcohen66/src/scala/journey/target/scala-2.11/test-classes/logback.xml)[0m
